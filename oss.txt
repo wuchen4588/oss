@@ -1,0 +1,5 @@
+{
+  "api": [
+    "https://secret.1919810.space"
+  ]
+}
